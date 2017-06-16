@@ -1,5 +1,5 @@
 defmodule Google.Apis.Directory do
-  use Google.Apis.Base, endpoint: "https://www.googleapis.com/admin/directory/v1/users?"
+  use Google.Apis.Base, endpoint: "https://www.googleapis.com/admin/directory/v1/users"
 
   @doc """
   Search Google's Directory: https://developers.google.com/admin-sdk/directory/
